@@ -212,7 +212,7 @@ CREATE INDEX on movies(rating);
 SELECT count(*) FROM movies WHERE rating = 'G';
 ```
 
-## Copyight (C)
+## Copyright (C)
 
 **Copyright:**  IBM Skills Network | All rights reserved. 2021
 
