@@ -3,7 +3,8 @@
 
 As a data engineer at a Data Analytics Consulting Company. A company prides itself in being able to efficiently handle data in any format on any database on any platform. Analysts in the offices need to work with data on different databases, and with data in different formats. While they are good at analyzing data, they count on me to be able to move data from external sources into various databases, move data from one type of database to another, and be able to run basic queries on various databases.
 
-
+#### PS Important !
+This mine project is part of the IBM Data Engineering Professional Certificate, in the Introduction to NoSQL Databases course.
 
 ## In this mini project i used 3 non-relational databases:
 
@@ -216,3 +217,5 @@ SELECT count(*) FROM movies WHERE rating = 'G';
 **Copyright:**  IBM Skills Network | All rights reserved. 2021
 
 **Author:** [Jeremias Tivane](https://www.linkedin.com/in/jeremiastivane/)
+
+**Certificate Link: [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
